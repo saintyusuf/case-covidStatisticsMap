@@ -10,6 +10,6 @@ TypeScript, React.js, Chakra UI, Axios, Redux Toolkit, Redux Saga, React Icons, 
 ## Usage
 
 Clone the repository: `git clone https://github.com/saintyusuf/case-kartaca.git`\
-Change directory: `cd case-cartaca`\
+Change directory: `cd case-kartaca`\
 Install npm packages: `npm i`\
 Run the project: `npm run start`
